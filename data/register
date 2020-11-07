@@ -1,0 +1,132 @@
+Data Sets
+
+**********************************
+
+Delta=0.05/a
+
+2 polarons
+
+2p1	alpha=0.1
+...	.........
+2p7	alpha=0.7
+
+3 polarons
+
+r3pa1811	alpha=0.1
+........
+r3pg1811	alpha=0.7
+
+4 polarons
+
+r4pa1811	alpha=0.1
+........
+r4pg1811	alpha=0.7
+
+5 polarons
+
+r5pa1811	alpha=0.1
+........
+r5pg1811	alpha=0.7
+
+6 polarons
+
+r6pa1911	alpha=0.1
+21m		alpha=0.2
+31m		alpha=0.3
+41m		alpha=0.4
+51m		alpha=0.5
+62m		alpha=0.6
+71m		alpha=0.7
+
+7 polarons
+r7pe2011	alpha=0.5
+r7pf2011	alpha=0.6
+r7pg2011	alpha=0.7
+
+**********************************
+
+Isotropic results
+
+r5pc2711	alpha=0.75	5 polarons
+r7pc0212	alpha=0.8	7 polarons
+r7pb0212	alpha=0.85	7 polarons
+r7pa0212	alpha=0.87	7 polarons
+
+***********************************
+
+Isotropic convergence results
+
+alpha=0.85
+
+r2pa2001       2 polarons
+....
+r5pa2001       5 polarons
+r6pc2001       6 polarons
+r7pc0212       7 polarons
+
+*********************************
+
+Overlap results (successful)
+
+alpha=0.3
+
+6 polarons (tracked minimum)
+
+r6pc1901        Delta=0.005/a
+r6pb1901        Delta=0.01/a
+r6pa1901        Delta=0.03/a
+31m             Delta=0.05/a
+r6pd1901        Delta=0.07/a
+r6pe1901        Delta=0.09/a
+r6pf1901        Delta=0.11/a
+
+alpha=0.6
+
+7 polarons (tracked minimum)
+
+r7pc1112	Delta=0.075/a
+r7pd1112	Delta=0.1/a
+........
+r7pi1112	Delta=0.25/a
+r7pj1112	Delta=0.275/a (not good)
+
+*********************************
+
+Overlap results (unsuccessful)
+
+alpha=0.8
+
+r7pa1012
+........
+r7pf1012
+
+r7pc0212
+r7pa1512	
+
+********************************
+
+different initializations / different local minima
+
+isotropic alpha=0.8, 7 polarons
+
+r7pc0212
+r7pb0605
+...
+r7pd0605
+
+r7pf0605
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
